@@ -1,4 +1,5 @@
 # 세계 대기질 관측 데이터을 활용한 분석
+<p style="text-align: right;"> 기간 2025-12-17 ~ 2025-12-20 
 
 ## 프로젝트 개요
 글로벌 대기질 데이터를 활용해 
@@ -56,4 +57,5 @@ python -m pip install --upgrade pip
 python src/create_db.py
 ```
 3. 분석 실행
+
 AirqualityAnalysis.ipynb 파일을 Jupyter Notebook에서 실행
